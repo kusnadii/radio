@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PLAYLIST THUMBS_X="10" THUMBS_Y="10" THUMB_WIDTH="125" THUMB_HEIGHT="70" VIDEO_X="300" VIDEO_Y="10" >
+<VIDEO TITLE="Whistle Stop Train Tour"  URL="https://cldup.com/8kRoOGObbH.mp4"/>
+<VIDEO TITLE="Obama Weekly Address" THUMB="thumbs/thumb2.jpg" URL="video/video2.flv"/>
+<VIDEO TITLE="Lincoln Memorial Concert" THUMB="thumbs/thumb3.jpg" URL="video/video3.flv"/>
+</PLAYLIST>
